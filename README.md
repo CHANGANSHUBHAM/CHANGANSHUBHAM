@@ -1,6 +1,7 @@
 - 👋 Hi, I’m Shubham Changan.
 - 👀 I’m currently working on how to get knowledge of coding & programing as per Full stack developer & as a Web developer
-- 🌱 I’m currently learning Web develpoment & java programing.
+- 🌱 I’m currently learning Web develpoment & App Devlopmemt.
+- 😉 I’m completed my own HTML, CSS, JavaScript course using YouTube.
 - 😉 Currently I'm complete my C/C++ language Cource.
 - 💞️ I’m looking to collaborate on a coding blog.
 - 📫 How to reach me by Email - sschangan@gmail.com
