@@ -1,10 +1,30 @@
-- 👋 Hi, I’m Shubham Changan.
-- 👀 I’m currently working on how to get knowledge of coding & programing as per Full stack developer & as a Web developer
-- 🌱 I’m currently learning Web develpoment & App Devlopmemt.
-- 😉 I’m completed my own HTML, CSS, JavaScript course using YouTube.
-- 😉 Currently I'm complete my C/C++ language Cource.
-- 💞️ I’m looking to collaborate on a coding blog.
-- 📫 How to reach me by Email - sschangan@gmail.com
+### 👋 Hey there! I'm Shubz
+
+I'm an Electronics & Telecommunication student with a strong passion for **Data Analytics**, **Data Science**, and AI-based innovations.
+
+🎓 My final-year college project:
+- 🤖 AI Talking Bot using ChatGPT (like Alexa & Google Assistant)
+
+📘 Currently enrolled in:
+- 🧠 Data Analyst & Data Science Classes
+- Strengthening skills with hands-on practice and weekly projects
+
+🔧 I’m building expertise in:
+- 📊 Excel, SQL, Python, Power BI, Tableau
+- 📈 Data Cleaning, Visualization, Machine Learning
+- 🤖 AI Integration & Automation
+
+🌱 Actively working on:
+- Weekly Mini Project Builds
+- LinkedIn Personal Branding
+- Becoming industry-ready in Data Analytics & Data Science
+
+🎯 My mission is simple: Learn. Build. Grow. Repeat. 🚀
+
+📫 Let’s connect and grow: www.linkedin.com/in/shubham-changan-205118245
+-  Gmail : sschangan@gmail.com
+
+
 
 <!---
 CHANGANSHUBHAM/CHANGANSHUBHAM is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
