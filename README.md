@@ -5,9 +5,14 @@ I'm an Electronics & Telecommunication student with a strong passion for **Data 
 🎓 My final-year college project:
 - 🤖 AI Talking Bot using ChatGPT (like Alexa & Google Assistant)
 
-📘 Currently enrolled in:
-- 🧠 Data Analyst & Data Science Classes
-- Strengthening skills with hands-on practice and weekly projects
+## 💼 Work Experience
+
+**Data Analyst Intern**  
+*Ai Variant | Feb 2025 – May 2025*  
+- Analyzed large datasets to extract actionable insights using Excel, SQL, and Python.
+- Created interactive dashboards and visualizations in Power BI to support business decisions.
+- Automated data cleaning and preprocessing tasks, improving reporting efficiency.
+- Collaborated with cross-functional teams on real-time data analysis projects.
 
 🔧 I’m building expertise in:
 - 📊 Excel, SQL, Python, Power BI, Tableau
