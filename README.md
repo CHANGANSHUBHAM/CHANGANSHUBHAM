@@ -1,4 +1,4 @@
-### 👋 Hey there! I'm Shubz
+### 👋 Hey there! I'm Shubham
 
 I'm an Electronics & Telecommunication student with a strong passion for **Data Analytics**, **Data Science**, and AI-based innovations.
 
